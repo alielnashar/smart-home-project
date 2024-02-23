@@ -1,0 +1,1 @@
+MCAL/ADC.o MCAL/ADC.o: ../MCAL/ADC.c
